@@ -1,0 +1,9 @@
+*.pyc
+chain.txt
+students.txt
+venv/
+build/
+dist/
+blockshell/
+blockshell.egg-info/
+static/*.png
